@@ -1,0 +1,44 @@
+html{
+  background-color: #FFE8E1;
+  font-weight:bolder;
+}
+body{
+  display:inline-block;
+  width:50%;
+  background-color: #FFE8E1;
+}
+table{
+  width:100%;
+  border:solid #1B998B;
+  text-align: center;
+  line-height: 5px;
+  }
+td{
+  border: solid #1B998B;
+}
+#result, #formula{
+  color:#1B998B;
+  text-align: right;
+  font-size: 40px;
+}
+button{
+  font-weight:bolder;
+  font-size:20px;
+  width:100%;
+  line-height: 300%;
+}
+.number,#decimal,#delete{
+  background-color:#FFE8E1;
+  color:#535568;
+}
+.enter{
+  color:#535568;
+  background-color:#9ADB62;
+}
+.operations{
+  background-color:#9FA0AB;
+  color:#535568;
+}
+#clear{
+  background-color:#FF3561;
+}
